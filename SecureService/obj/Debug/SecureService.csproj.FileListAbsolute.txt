@@ -1,0 +1,5 @@
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\bin\SecureService.dll
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\bin\SecureService.pdb
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.csprojResolveAssemblyReference.cache
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.dll
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.pdb
