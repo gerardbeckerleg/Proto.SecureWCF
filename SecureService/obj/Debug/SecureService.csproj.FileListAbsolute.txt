@@ -3,3 +3,8 @@ c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\Se
 c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.csprojResolveAssemblyReference.cache
 c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.dll
 c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureService\SecureService\obj\Debug\SecureService.pdb
+C:\Proto\SecureService\SecureService\bin\SecureService.dll
+C:\Proto\SecureService\SecureService\bin\SecureService.pdb
+C:\Proto\SecureService\SecureService\obj\Debug\SecureService.csprojResolveAssemblyReference.cache
+C:\Proto\SecureService\SecureService\obj\Debug\SecureService.dll
+C:\Proto\SecureService\SecureService\obj\Debug\SecureService.pdb
