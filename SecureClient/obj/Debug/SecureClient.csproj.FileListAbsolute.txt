@@ -1,0 +1,6 @@
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\bin\Debug\SecureClient.exe.config
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\bin\Debug\SecureClient.exe
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\bin\Debug\SecureClient.pdb
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\obj\Debug\SecureClient.csprojResolveAssemblyReference.cache
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\obj\Debug\SecureClient.exe
+c:\users\gerard.beckerleg\documents\visual studio 2012\Projects\SecureClient\SecureClient\obj\Debug\SecureClient.pdb
