@@ -11,5 +11,5 @@ A great how to on creating certificates with OpenSSL for IIS see http://twentyei
 1. Clone the repository
 2. Create a certificate for your service make sure the cn=*.secureservice.com and add to the Computer Account (Local Computer) Personal Store
 3. Create a certificate for your client make sure the cn=secureclient.com and add to the Computer Account (Local Computer) Personal Store
-4. Create an IIS site for Secure.Service bound to https://api.secureservice.com using the certificate from step 1
+4. Create an IIS site for SecureService bound to https://api.secureservice.com using the certificate from step 1
 5. Run the client
