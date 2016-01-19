@@ -1,7 +1,7 @@
 # WCF Security Prototype
 A prototype demonstrating Transport Security with Certificate Authentication and Message Security with Mutual Certificates.
 
-For more information on Transport Security with Certificate Authentication see https://msdn.microsoft.com/en-us/library/ms731074(v=vs.110).aspx 
+For more information on Transport Security with Certificate Authentication see https://msdn.microsoft.com/en-us/library/ms731074(v=vs.110).aspx
 For more information on Message Security with Mutual Certificates see https://msdn.microsoft.com/en-us/library/ms733102(v=vs.110).aspx
 A great how to on creating certificates with OpenSSL for IIS see http://twentyeighttwelve.com/setting-up-your-own-certificate-authority-on-iis7-using-openssl-and-securing-your-web-api-with-client-certificates/
 
